@@ -1,0 +1,435 @@
+Topics found via LDA: prelockdown Overall
+
+Topic #0:
+india people hospital health coronavirus china treatment social loss govt
+
+Topic #1:
+mask job face virus corona smiling skin loss tone light
+
+Topic #2:
+coronavirus face covid19 health india mask china coronavirusoutbreak com covid
+
+Topic #3:
+virus corona coronavirus social media health com india selector covid19
+
+Topic #4:
+corona loss face virus people treatment india country social migrants
+Topics found via LDA: lockdown1 Overall
+
+Topic #0:
+covid19 virus face coronavirus corona covid time treatment lockdown 19
+
+Topic #1:
+india hands lockdown folded people china curfew corona virus social
+
+Topic #2:
+lockdown covid19 corona people india mask loss pm coronavirus virus
+
+Topic #3:
+india lockdown corona sir virus com curfew govt hospital people
+
+Topic #4:
+police sir health mask good people social covid job coronavirus
+Topics found via LDA: lockdown2 Overall
+
+Topic #0:
+people india job health lockdown sir corona treatment covid19 covid
+
+Topic #1:
+covid19 face india corona need lockdown health people hands folded
+
+Topic #2:
+coronavirus lockdown covid police loss corona face india 19 curfew
+
+Topic #3:
+mask corona virus india covid19 hospital lockdown coronavirus face com
+
+Topic #4:
+social covid19 people hands corona covid lockdown loss folded world
+Topics found via LDA: lockdown3 Overall
+
+Topic #0:
+corona coronavirus people virus treatment covid19 curfew home loss sir
+
+Topic #1:
+covid face lockdown govt 19 mask covid19 small coronavirus virus
+
+Topic #2:
+lockdown people covid19 health loss hands folded like covid social
+
+Topic #3:
+india corona sir hands folded coronavirus face job lockdown mask
+
+Topic #4:
+social job lockdown people covid19 health coronavirus time good virus
+Topics found via LDA: lockdown4 Overall
+
+Topic #0:
+covid19 india lockdown health virus com home need covid people
+
+Topic #1:
+india coronavirus corona sir people covid lockdown curfew health com
+
+Topic #2:
+corona covid19 lockdown social india people virus treatment coronavirus media
+
+Topic #3:
+loss hands folded people curfew treatment covid19 health family hospital
+
+Topic #4:
+corona covid face job coronavirus lockdown social mask 19 people
+Topics found via LDA: unlock1 Overall
+
+Topic #0:
+lockdown mask job hands loss corona social india folded migrants
+
+Topic #1:
+people home india covid19 govt face lockdown cases health help
+
+Topic #2:
+corona covid19 virus social face coronavirus covid people time health
+
+Topic #3:
+covid19 hospital treatment people curfew covid coronavirus lockdown com 19
+
+Topic #4:
+corona virus sir india coronavirus people covid treatment covid19 lockdown
+Topics found via LDA: unlock2 Overall
+
+Topic #0:
+covid19 treatment covid india lockdown corona 19 coronavirus stayhome social
+
+Topic #1:
+people coronavirus covid social govt mask distancing corona health 19
+
+Topic #2:
+lockdown job face sir people virus loss india help corona
+
+Topic #3:
+corona virus people india china covid19 mask loss time social
+
+Topic #4:
+hands folded covid19 health india coronavirus corona lockdown home curfew
+Topics found via LDA: lockdown Overall
+
+Topic #0:
+india lockdown coronavirus corona sir health virus treatment migrant small
+
+Topic #1:
+loss india social coronavirus corona covid covid19 people job cases
+
+Topic #2:
+social health virus lockdown corona media govt covid19 home people
+
+Topic #3:
+people covid19 mask folded covid hands com coronavirus curfew india
+
+Topic #4:
+lockdown face corona people job police virus sir covid19 curfew
+Topics found via LDA: unlock Overall
+
+Topic #0:
+corona coronavirus india loss covid19 health people like lockdown good
+
+Topic #1:
+hands folded corona covid virus hospital mask govt loss india
+
+Topic #2:
+india lockdown face corona covid treatment health loss coronavirus virus
+
+Topic #3:
+covid19 coronavirus people mask lockdown covid india home social curfew
+
+Topic #4:
+sir people covid19 social lockdown face job corona virus covid
+
+
+Topics found via LDA: prelockdown South India
+
+Topic #0:
+coronavirus china india health com virus corona instagram www good
+
+Topic #1:
+job loss help treatment heart media health corona virus red
+
+Topic #2:
+virus face corona health coronavirus india hospital treatment migrants mask
+
+Topic #3:
+social covid19 face people loss skin light eyes tone new
+
+Topic #4:
+coronavirus selector corona face mask loss king virus people sun
+Topics found via LDA: lockdown1 South India
+
+Topic #0:
+lockdown covid19 india time covid job health social curfew sir
+
+Topic #1:
+india face corona virus people social govt media china hands
+
+Topic #2:
+treatment sir virus corona china hospital covid19 face mask health
+
+Topic #3:
+police india car lockdown covid19 officer curfew poor people corona
+
+Topic #4:
+covid people virus com 19 covid19 lockdown mask india coronavirus
+Topics found via LDA: lockdown2 South India
+
+Topic #0:
+jobs sir hospital covid home loss coronavirus govt lockdown virus
+
+Topic #1:
+covid19 coronavirus lockdown covid mask corona stayhome virus 19 social
+
+Topic #2:
+people india curfew hands folded police govt corona health workers
+
+Topic #3:
+mask com corona india covid19 treatment virus covid people face
+
+Topic #4:
+lockdown social sir face distancing people corona virus job china
+Topics found via LDA: lockdown3 South India
+
+Topic #0:
+india virus people coronavirus covid19 mask face corona lockdown migrants
+
+Topic #1:
+covid sir job police loss people curfew social govt covid19
+
+Topic #2:
+lockdown corona hands social folded mask coronavirus india covid people
+
+Topic #3:
+hospital treatment virus health corona covid19 face care people com
+
+Topic #4:
+covid19 people face covid 19 hospital social com india telangana
+Topics found via LDA: lockdown4 South India
+
+Topic #0:
+covid19 covid corona people job 19 mask sir cases state
+
+Topic #1:
+covid19 coronavirus india corona mask covid lockdown people health stayhome
+
+Topic #2:
+lockdown hands folded india social people curfew face sir health
+
+Topic #3:
+sir treatment job covid19 govt corona good com lockdown instagram
+
+Topic #4:
+virus loss corona people face social govt india distancing lockdown
+Topics found via LDA: unlock1 South India
+
+Topic #0:
+covid people social 19 covid19 india sir migrants virus distancing
+
+Topic #1:
+people face india loss covid19 govt curfew hospitals workers migrant
+
+Topic #2:
+corona coronavirus health mask com jobs work lockdown virus day
+
+Topic #3:
+corona virus india treatment covid job people sir china social
+
+Topic #4:
+lockdown covid19 people coronavirus hands face folded mask sir virus
+Topics found via LDA: unlock2 South India
+
+Topic #0:
+covid19 india lockdown govt social coronavirus face people health covid
+
+Topic #1:
+corona sir lockdown people virus curfew need india loss job
+
+Topic #2:
+coronavirus job india corona covid19 people state migrants telangana face
+
+Topic #3:
+covid hands people folded social mask 19 india virus face
+
+Topic #4:
+hospital com treatment virus police china covid19 home world workers
+Topics found via LDA: lockdown South India
+
+Topic #0:
+india covid19 coronavirus police people virus treatment job china covid
+
+Topic #1:
+covid19 lockdown covid people social like need health news corona
+
+Topic #2:
+face mask india virus covid lockdown com loss health coronavirus
+
+Topic #3:
+sir corona people curfew virus lockdown social job folded hands
+
+Topic #4:
+corona covid19 people covid loss face lockdown virus govt like
+Topics found via LDA: unlock South India
+
+Topic #0:
+people covid19 mask sir face treatment india telangana corona state
+
+Topic #1:
+social curfew covid govt corona folded hands distancing police hospital
+
+Topic #2:
+covid19 coronavirus job corona covid virus 19 india face people
+
+Topic #3:
+lockdown india virus com covid19 covid people instagram like coronavirus
+
+Topic #4:
+corona people loss social virus india sir migrant health mask
+
+Topics found via LDA: prelockdown North India
+
+Topic #0:
+loss mask coronavirus com virus face www covid19 india migrants
+
+Topic #1:
+virus health loss coronavirus india face job curfew china corona
+
+Topic #2:
+coronavirus corona treatment hands com people india virus lockdown www
+
+Topic #3:
+mask people hospital india coronavirus virus loss dont stop like
+
+Topic #4:
+social corona face covid19 cases coronavirus virus media good new
+Topics found via LDA: lockdown1 North India
+
+Topic #0:
+job small social people hands good govt come lockdown hospital
+
+Topic #1:
+like india time social pm people travel jobloss covid19 distancing
+
+Topic #2:
+india corona lockdown com coronavirus covid19 hands virus mask hospital
+
+Topic #3:
+lockdown coronavirus covid19 workers best pm health help covid migrants
+
+Topic #4:
+help virus like loss coronavirus curfew lockdown time corona home
+Topics found via LDA: lockdown2 North India
+
+Topic #0:
+lockdown home social corona mask face loss people hands help
+
+Topic #1:
+covid 19 workers coronavirus covid19 corona migrants stayhome india people
+
+Topic #2:
+india coronavirus mask loss lockdown com hospital police face virus
+
+Topic #3:
+corona covid19 coronavirus lockdown virus sir mumbai treatment india world
+
+Topic #4:
+coronavirus help hands folded social health people govt small curfew
+Topics found via LDA: lockdown3 North India
+
+Topic #0:
+lockdown india covid19 corona social home help sir police mask
+
+Topic #1:
+hands folded loss skin light hospital tone corona treatment health
+
+Topic #2:
+coronavirus india people corona virus lockdown covid19 social help covid
+
+Topic #3:
+job mask lockdown good people virus curfew covid19 small social
+
+Topic #4:
+coronavirus corona covid health people face time 19 com www
+Topics found via LDA: lockdown4 North India
+
+Topic #0:
+health loss coronavirus time lockdown corona covid19 new home social
+
+Topic #1:
+hands folded loss lockdown skin job social good light help
+
+Topic #2:
+coronavirus india covid 19 corona lockdown social covid19 com home
+
+Topic #3:
+virus corona lockdown covid19 sir people world india loss china
+
+Topic #4:
+people face treatment job covid19 lockdown time virus mask india
+Topics found via LDA: unlock1 North India
+
+Topic #0:
+hands folded corona skin job lockdown light tone face coronavirus
+
+Topic #1:
+people social sir covid19 mask help coronavirus time treatment india
+
+Topic #2:
+coronavirus covid19 covid 19 lockdown job people curfew india like
+
+Topic #3:
+corona covid19 india coronavirus people lockdown virus covid face hospital
+
+Topic #4:
+sir lockdown social loss corona india like job help mask
+Topics found via LDA: unlock2 North India
+
+Topic #0:
+corona coronavirus lockdown covid19 india virus health covid people 19
+
+Topic #1:
+job covid19 people social lockdown good health migrants curfew small
+
+Topic #2:
+face hands folded people loss india health like lockdown corona
+
+Topic #3:
+mask pm coronavirus lockdown social curfew india hospital corona virus
+
+Topic #4:
+india covid loss virus lockdown covid19 19 hands sir treatment
+Topics found via LDA: lockdown North India
+
+Topic #0:
+coronavirus people lockdown govt mask india job covid corona migrant
+
+Topic #1:
+covid19 lockdown 19 covid come virus people india face corona
+
+Topic #2:
+corona help health virus china covid19 good world job home
+
+Topic #3:
+hands folded loss covid19 social face family virus lockdown skin
+
+Topic #4:
+india lockdown coronavirus sir treatment corona job hands health hospital
+Topics found via LDA: unlock North India
+
+Topic #0:
+loss face virus lockdown covid19 people mask corona india time
+
+Topic #1:
+job hands skin folded light social tone coronavirus lockdown people
+
+Topic #2:
+india covid19 people coronavirus corona lockdown covid 19 com health
+
+Topic #3:
+india social health lockdown coronavirus corona curfew help migrants govt
+
+Topic #4:
+corona coronavirus hands sir covid folded people lockdown mask 19
